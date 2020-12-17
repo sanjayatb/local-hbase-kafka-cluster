@@ -13,7 +13,7 @@
       <module name="local-cluster" target="1.5" />
       <module name="local-hbase" target="1.5" />
       <module name="local-kafka" target="1.5" />
-      <module name="local_hbase_kafka_cluster" target="1.5" />
+      <module name="local_hbase_kafka_cluster" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
